@@ -8,7 +8,7 @@ export default defineNuxtConfig({
   
   app: {
     head: {
-      title: 'Best CS Test Series - CS Executive & Professional | Mission CS',
+      title: 'Best CS Test Series - CS Executive & Professional | Mission CS Test Series',
       htmlAttrs: {
         lang: 'en'
       },

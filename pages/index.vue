@@ -967,9 +967,9 @@ const toggleFaq = (index) => {
 };
 
 useSeoMeta({
-    title: "Best CS Test Series 2026 - CS Executive & Professional | Mission CS",
+    title: "Best CS Test Series - CS Executive & Professional | Mission CS",
     description: "India's #1 CS Test Series for ICSI exams. Best cs test series, cs executive test series & cs professional test series designed by AIRs. Fastest evaluation in 24-48 hours. Use code MISSIONCS for discount.",
-    ogTitle: "Best CS Test Series 2026 - Crack ICSI Exams",
+    ogTitle: "Best CS Test Series - Crack ICSI Exams",
     ogDescription: "Prepare for cs test series - cs executive test series & cs professional test series with Mission CS. Designed by All India Rankers. Join 50,000+ students.",
     ogUrl: "https://missioncstestseries.com",
     twitterCard: "summary_large_image",

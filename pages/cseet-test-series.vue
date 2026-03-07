@@ -164,9 +164,9 @@ const plans = ref([
 ])
 
 useSeoMeta({
-  title: 'CSEET Test Series 2026 - Online Mock Tests | Mission CS',
+  title: 'CSEET Test Series - Online Mock Tests | Mission CS',
   description: 'Best CSEET Test Series with 150+ mock tests, chapterwise & unitwise tests. Prepare for ICSI Company Secretary Executive Entrance Test. Designed by AIRs. Use code MISSIONCS for discount.',
-  ogTitle: 'CSEET Test Series 2026 - Prepare with AIRs',
+  ogTitle: 'CSEET Test Series - Prepare with AIRs',
   ogDescription: 'India\'s #1 CSEET Test Series. Comprehensive preparation for CS Executive Entrance Test with chapterwise, unitwise & full syllabus tests.',
   ogUrl: 'https://missioncstestseries.com/cseet-test-series',
   twitterCard: 'summary_large_image',

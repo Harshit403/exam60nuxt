@@ -241,9 +241,9 @@ const getSubjectPrice = (planId) => {
 }
 
 useSeoMeta({
-  title: 'CS Professional Test Series 2026 - Chapterwise, Unitwise & Full Syllabus | Mission CS',
+  title: 'CS Professional Test Series - Chapterwise, Unitwise & Full Syllabus | Mission CS',
   description: 'Best cs professional test series with chapterwise, unitwise & full syllabus tests. Designed by AIRs. Covers ESG, Drafting, Compliance, IBC. Use code MISSIONCS for discount.',
-  ogTitle: 'CS Professional Test Series 2026 - Prepare with AIRs',
+  ogTitle: 'CS Professional Test Series - Prepare with AIRs',
   ogDescription: 'India\'s #1 CS Professional Test Series with chapterwise, unitwise & full syllabus tests. Fastest evaluation in 24-48 hours. Join now!',
   ogUrl: 'https://missioncstestseries.com/cs-professional-test-series',
   twitterCard: 'summary_large_image',

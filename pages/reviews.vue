@@ -257,9 +257,9 @@ const submitReview = () => {
 }
 
 useSeoMeta({
-  title: 'CS Test Series Reviews 2026 - Student Success Stories | Mission CS',
+  title: 'CS Test Series Reviews - Student Success Stories | Mission CS',
   description: 'Read reviews from students who cleared CS Executive & Professional exams with our test series. 95% pass rate, 4.9/5 rating. Join 50,000+ successful students.',
-  ogTitle: 'CS Test Series Reviews 2026 - Student Success Stories',
+  ogTitle: 'CS Test Series Reviews - Student Success Stories',
   ogDescription: 'Student success stories and reviews for CSEET, CS Executive, and CS Professional test series.',
   ogUrl: 'https://missioncstestseries.com/reviews',
   twitterCard: 'summary_large_image',
