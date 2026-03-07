@@ -32,7 +32,7 @@ export default defineNuxtConfig({
         { name: 'theme-color', content: '#1e3a8a' }
       ],
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+        { rel: 'icon', type: 'image/x-icon', href: 'https://missioncstestseries.com/favicon.ico' },
         { rel: 'canonical', href: 'https://missioncstestseries.com' },
         { rel: 'preconnect', href: 'https://missioncstestseries.com' }
       ]
