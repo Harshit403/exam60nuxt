@@ -9,10 +9,10 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.477 14.168 5.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
               </svg>
             </span>
-            <span class="logo-text">Mission CS</span>
+            <span class="logo-text">CS Test Series</span>
           </div>
           <p class="footer-desc">
-            India's #1 CS Test Series for ICSI exams. Test papers designed by All India Rankers with weekly mentorship. Fastest evaluation in 24-48 hours.
+            India's #1 CS Test Series for ICSI exams. Test papers designed by All India Rankers with weekly mentorship. Fastest evaluation in 24-48 hours. Call: +91 8929592998
           </p>
           <div class="social-links">
             <a href="#" class="social-link">
@@ -40,9 +40,29 @@
         </div>
 
         <div class="footer-links">
+          <h4>CS Test Series</h4>
+          <ul>
+            <li><NuxtLink to="/cs-test-series">CS Test Series</NuxtLink></li>
+            <li><NuxtLink to="/best-cs-test-series">Best CS Test Series</NuxtLink></li>
+            <li><NuxtLink to="/cstestseries">CS Test Series</NuxtLink></li>
+            <li><NuxtLink to="/cseettestaeries">CSEET Test Series</NuxtLink></li>
+            <li><NuxtLink to="/csexecutivetestseries">CS Executive Test</NuxtLink></li>
+            <li><NuxtLink to="/csprofessionaltestserseries">CS Professional Test</NuxtLink></li>
+          </ul>
+        </div>
+
+        <div class="footer-links">
+          <h4>Free Downloads</h4>
+          <ul>
+            <li><NuxtLink to="/downloads">CS Notes & Scanners</NuxtLink></li>
+          </ul>
+        </div>
+
+        <div class="footer-links">
           <h4>Quick Links</h4>
           <ul>
             <li><NuxtLink to="/">Home</NuxtLink></li>
+            <li><NuxtLink to="/about">About Us</NuxtLink></li>
             <li><NuxtLink to="/reviews">Student Reviews</NuxtLink></li>
             <li><NuxtLink to="/#faq">FAQs</NuxtLink></li>
             <li><NuxtLink to="/#contact">Contact Us</NuxtLink></li>
@@ -54,18 +74,18 @@
           <ul>
             <li>
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" /></svg>
-              info@missioncs.com
+              misssioncs@gmail.com
             </li>
             <li>
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" /></svg>
-              +91 9876543210
+              +91 8929592998
             </li>
           </ul>
         </div>
       </div>
 
       <div class="footer-bottom">
-        <p>&copy; {{ new Date().getFullYear() }} Mission CS Test Series. All rights reserved.</p>
+        <p>&copy; {{ new Date().getFullYear() }} CS Test Series. All rights reserved.</p>
         <div class="footer-legal">
           <a href="#">Privacy Policy</a>
           <a href="#">Terms of Service</a>

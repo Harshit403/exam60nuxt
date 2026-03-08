@@ -11,6 +11,7 @@
           <NuxtLink to="/cseet-test-series" class="nav-link">CSEET</NuxtLink>
           <NuxtLink to="/cs-executive-test-series" class="nav-link">CS Executive</NuxtLink>
           <NuxtLink to="/cs-professional-test-series" class="nav-link">CS Professional</NuxtLink>
+          <NuxtLink to="/downloads" class="nav-link">Downloads</NuxtLink>
           <NuxtLink to="/reviews" class="nav-link">Reviews</NuxtLink>
         </nav>
 
@@ -29,6 +30,7 @@
         <NuxtLink to="/cseet-test-series" class="nav-link" @click="mobileMenuOpen = false">CSEET</NuxtLink>
         <NuxtLink to="/cs-executive-test-series" class="nav-link" @click="mobileMenuOpen = false">CS Executive</NuxtLink>
         <NuxtLink to="/cs-professional-test-series" class="nav-link" @click="mobileMenuOpen = false">CS Professional</NuxtLink>
+        <NuxtLink to="/downloads" class="nav-link" @click="mobileMenuOpen = false">Downloads</NuxtLink>
         <NuxtLink to="/reviews" class="nav-link" @click="mobileMenuOpen = false">Reviews</NuxtLink>
         <div class="mobile-actions">
           <a href="https://missioncstestseries.com/login" class="btn btn-outline btn-full">Login</a>
