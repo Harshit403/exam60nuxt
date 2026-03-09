@@ -23,7 +23,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'CS Test Series - CS Executive & Professional | Mission CS Test Series',
+      title: 'CS TEST SERIES',
       htmlAttrs: {
         lang: 'en'
       },
@@ -32,22 +32,22 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'description', content: 'India\'s #1 CS Test Series for ICSI exams. Best CS Executive Test Series & CS Professional Test Series designed by AIRs. Fastest evaluation in 24-48 hours. Join 50,000+ students.' },
         { name: 'keywords', content: 'CS test series, cs executive test series, cs professional test series, icsi exams, cseet test series, best cs test series' },
-        { name: 'author', content: 'Mission CS Test Series' },
+        { name: 'author', content: 'CS TEST SERIES' },
         { name: 'robots', content: 'index, follow' },
-        { property: 'og:title', content: 'Best CS Test Series - CS Executive & Professional | Mission CS' },
+        { property: 'og:title', content: 'CS TEST SERIES' },
         { property: 'og:description', content: 'India\'s #1 CS Test Series for ICSI exams. CS Executive & Professional test papers designed by AIRs.' },
         { property: 'og:type', content: 'website' },
         { property: 'og:url', content: 'https://exam60.online' },
-        { property: 'og:site_name', content: 'CS Test Series' },
+        { property: 'og:site_name', content: 'CS TEST SERIES' },
         { property: 'og:image', content: 'https://exam60.online/logo.png' },
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:title', content: 'Best CS Test Series - CS Executive & Professional | Mission CS' },
+        { name: 'twitter:title', content: 'CS TEST SERIES' },
         { name: 'twitter:description', content: 'India\'s #1 CS Test Series for ICSI exams. Designed by AIRs with fastest evaluation.' },
         { name: 'twitter:image', content: 'https://exam60.online/logo.png' },
         { name: 'theme-color', content: '#1e3a8a' }
       ],
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: 'https://exam60.online/favicon.ico' },
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         { rel: 'preconnect', href: 'https://exam60.online' }
       ]
     }
