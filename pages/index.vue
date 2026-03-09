@@ -732,7 +732,8 @@ useHead({
         { rel: 'canonical', href: 'https://exam60.online/' }
     ],
     meta: [
-        { name: 'google-site-verification', content: '' }
+        { name: 'google-site-verification', content: '' },
+        { name: 'referrer', content: 'strict-origin-when-cross-origin' }
     ],
     script: [
         {
