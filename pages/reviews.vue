@@ -196,7 +196,7 @@
         <div class="cta-content">
           <h2>Start Your Success Story</h2>
           <p>
-            Join 20,000+ students who cleared their CS exams with our test series. 
+            Join 20,000+ students community who cleared their CS exams with our test series. 
             Get access to the best CS mock tests designed by All India Rankers.
           </p>
           <div class="cta-buttons">

@@ -719,7 +719,7 @@ useSeoMeta({
     title: "CS TEST SERIES",
     description: "India's #1 CS test series for ICSI exams. Best CS test series, CS executive test series & CS professional test series designed by AIRs. Fastest evaluation in 24-48 hours. Call +91 8929592998",
     ogTitle: "CS TEST SERIES",
-    ogDescription: "Prepare with India's best CS test series. CS executive test series & CS professional test series designed by All India Rankers. Join 20,000+ successful students.",
+    ogDescription: "Prepare with India's best CS test series. CS executive test series & CS professional test series designed by All India Rankers. Join 20,000+ students community.",
     ogUrl: "https://exam60.online",
     ogSiteName: "CS TEST SERIES",
     twitterCard: "summary_large_image",

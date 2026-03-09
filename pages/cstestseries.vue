@@ -216,7 +216,7 @@
       <div class="container">
         <div class="cta-content">
           <h2>Start Your CS Exam Preparation</h2>
-          <p>Join 20,000+ students preparing for CS exams with our comprehensive test series.</p>
+          <p>Join 20,000+ students community preparing for CS exams with our comprehensive test series.</p>
           <div class="cta-buttons">
             <a href="https://missioncstestseries.com/login" class="btn btn-white btn-lg">Enroll Now</a>
             <a href="https://missioncstestseries.com/cstestseriesschedule" class="btn btn-outline btn-lg">View Schedule</a>
@@ -231,7 +231,7 @@
 useHead({
   title: 'CS Test Series | Complete ICSI Exam Preparation',
   meta: [
-    { name: 'description', content: 'CS Test Series - 500+ mock tests for CSEET, CS Executive & Professional. Designed by AIRs with 24-48h evaluation. Join 20,000+ students. Enroll now!' },
+    { name: 'description', content: 'CS Test Series - 500+ mock tests for CSEET, CS Executive & Professional. Designed by AIRs with 24-48h evaluation. Join 20,000+ students community. Enroll now!' },
     { name: 'keywords', content: 'cstestseries, cs test series, icsi test series, cseet test series, cs executive test series, cs professional test series, cs mock tests, cs exam preparation' },
     { property: 'og:title', content: 'CS Test Series | Complete ICSI Exam Preparation' },
     { property: 'og:description', content: 'CS Test Series - 500+ mock tests for CSEET, CS Executive & Professional.' },

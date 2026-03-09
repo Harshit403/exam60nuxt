@@ -237,7 +237,7 @@
 useHead({
   title: 'About Us - CS Test Series | India\'s Best CS Exam Preparation',
   meta: [
-    { name: 'description', content: 'Learn about CS Test Series - India\'s leading CS exam preparation platform. Designed by All India Rankers with 500+ mock tests and fastest evaluation. Join 20,000+ students.' },
+    { name: 'description', content: 'Learn about CS Test Series - India\'s leading CS exam preparation platform. Designed by All India Rankers with 500+ mock tests and fastest evaluation. Join 20,000+ students community.' },
     { name: 'keywords', content: 'CS test series, about CS test series, CS exam preparation, ICSI exam, CSEET test series, CS Executive test series, CS Professional test series' },
     { property: 'og:title', content: 'About Us - CS Test Series | India\'s Best CS Exam Preparation' },
     { property: 'og:description', content: 'Learn about CS Test Series - India\'s leading CS exam preparation platform designed by All India Rankers.' },

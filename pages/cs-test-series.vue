@@ -789,7 +789,7 @@
                 <div class="cta-content">
                     <h2>Start Your CS Exam Preparation Today</h2>
                     <p>
-                        Join 20,000+ students who cleared their CS exams with
+                        Join 20,000+ students community who cleared their CS exams with
                         our test series. Get access to the best CS mock tests
                         now.
                     </p>
@@ -820,7 +820,7 @@ useHead({
         {
             name: "description",
             content:
-                "CS Test Series - India's #1 online CS mock test platform. 500+ tests for CSEET, CS Executive & Professional. Designed by AIRs with 24-48h evaluation. Join 20,000+ students now!",
+                "CS Test Series - India's #1 online CS mock test platform. 500+ tests for CSEET, CS Executive & Professional. Designed by AIRs with 24-48h evaluation. Join 20,000+ students community now!",
         },
         {
             name: "keywords",

@@ -4,7 +4,7 @@
     <section class="page-header">
       <div class="container">
         <h1>Best CS Test Series for ICSI Exams</h1>
-        <p class="page-subtitle">India's #1 CS test series designed by All India Rankers. Join 20,000+ students who cleared CS exams with our comprehensive test series.</p>
+        <p class="page-subtitle">India's #1 CS test series designed by All India Rankers. Join 20,000+ students community who cleared CS exams with our comprehensive test series.</p>
         <div class="hero-actions">
           <a href="https://missioncstestseries.com/login" target="_blank" class="btn btn-primary btn-lg">Enroll Now</a>
           <a href="https://missioncstestseries.com/cstestseriesschedule" target="_blank" class="btn btn-white btn-lg">View Schedule</a>
@@ -286,7 +286,7 @@
 useHead({
   title: 'Best CS Test Series | India\'s #1 CS Mock Tests for ICSI Exams',
   meta: [
-    { name: 'description', content: 'Best CS Test Series in India. 500+ mock tests designed by AIRs. 99% satisfaction rate, 24-48h evaluation. Join 20,000+ students. Enroll now for CSEET, CS Executive & Professional!' },
+    { name: 'description', content: 'Best CS Test Series in India. 500+ mock tests designed by AIRs. 99% satisfaction rate, 24-48h evaluation. Join 20,000+ students community. Enroll now for CSEET, CS Executive & Professional!' },
     { name: 'keywords', content: 'best cs test series, best cs test series online, best cs test series in india, best cs executive test series, best cs professional test series, best cseet test series, top cs test series, best icsi test series' },
     { property: 'og:title', content: 'Best CS Test Series | India\'s #1 CS Mock Tests' },
     { property: 'og:description', content: 'Join the best CS test series. Designed by AIRs with 99% satisfaction rate. Enroll now!' },
