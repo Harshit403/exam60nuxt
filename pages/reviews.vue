@@ -230,16 +230,16 @@ const reviews = ref([
     course: 'CS Executive',
     rating: 5,
     comment: 'The CS Executive test series was exceptional. The questions were exactly like the real ICSI exam. I cleared both modules in my first attempt thanks to this platform. The detailed solutions helped me understand where I was going wrong.',
-    date: 'January 2024',
+    date: 'Dec 2024',
     qualified: 'CS Executive Qualified'
   },
   {
     id: 2,
-    name: 'Rahul Verma',
+    name: 'Yash Kamra',
     course: 'CS Professional',
     rating: 5,
-    comment: 'Case study papers for CS Professional were excellent. The detailed solutions helped me understand practical application of corporate laws. Ranking in AIR 15 was possible only because of rigorous practice with these mock tests.',
-    date: 'December 2023',
+    comment: 'Case study papers for CS Professional were excellent. The detailed solutions helped me understand practical application of corporate laws. This 	was possible only because of rigorous practice with these mock tests.',
+    date: 'June 2025',
     qualified: 'CS Professional Qualified'
   },
   {
@@ -257,7 +257,7 @@ const reviews = ref([
     course: 'CS Executive',
     rating: 5,
     comment: 'The CS Executive mock tests helped me manage time during the actual exam. The difficulty level was perfect for preparation. The 24-hour evaluation was really helpful for quick revision.',
-    date: 'October 2023',
+    date: 'Dec 2025',
     qualified: 'CS Executive Qualified'
   },
   {
@@ -266,7 +266,7 @@ const reviews = ref([
     course: 'CS Professional',
     rating: 5,
     comment: 'Comprehensive test series with excellent coverage of advanced topics. The one-on-one mentoring with AIRs was very helpful for my weak areas in Corporate Restructuring.',
-    date: 'September 2023',
+    date: 'June 2025',
     qualified: 'CS Professional Qualified'
   },
   {
@@ -275,7 +275,7 @@ const reviews = ref([
     course: 'CS Executive',
     rating: 5,
     comment: 'Chapter-wise tests helped me identify weak topics in Tax Laws. Detailed solutions made learning easier. The question bank is updated as per latest ICSI syllabus.',
-    date: 'August 2023',
+    date: 'June 2025',
     qualified: 'CS Executive Qualified'
   }
 ])
@@ -290,7 +290,7 @@ const getCourseReviews = (courseId) => {
 }
 
 useHead({
-  title: 'CS Test Series Reviews 2024 | Student Success Stories & Ratings',
+  title: 'CS Test Series Reviews | Student Success Stories & Ratings',
   meta: [
     { name: 'description', content: 'Read genuine CS test series reviews from 500+ students. 4.9/5 rating, 95% pass rate. Reviews for CSEET, CS Executive & Professional test series. Enroll now!' },
     { name: 'keywords', content: 'cs test series reviews, cs test series review, cs executive test series reviews, cs professional test series reviews, cseet test series reviews, best cs test series reviews, icsi exam reviews, cs test series student feedback, cs test series rating, cs test series success rate' },
