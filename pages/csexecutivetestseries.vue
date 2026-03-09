@@ -228,8 +228,8 @@
             <p>Depending on your plan, we provide 50-100 chapter tests and 5-20 full-length mock tests covering both modules of CS Executive.</p>
           </div>
           <div class="faq-item">
-            <h3>What is the pass rate for CS Executive?</h3>
-            <p>Our students have a 90% pass rate in CS Executive. Many clear one or both modules in their first attempt with regular practice.</p>
+            <h3>What is the satisfaction rate for CS Executive?</h3>
+            <p>Our students have a 99% satisfaction rate in CS Executive. Many clear one or both modules in their first attempt with regular practice.</p>
           </div>
           <div class="faq-item">
             <h3>How to enroll in CS Executive test series?</h3>

@@ -50,8 +50,8 @@
             <span class="stat-label">Mock Tests</span>
           </div>
           <div class="stat-card">
-            <span class="stat-value">95%</span>
-            <span class="stat-label">Pass Rate</span>
+            <span class="stat-value">99%</span>
+            <span class="stat-label">Satisfaction Rate</span>
           </div>
           <div class="stat-card">
             <span class="stat-value">4.9/5</span>

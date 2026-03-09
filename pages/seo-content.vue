@@ -134,7 +134,7 @@ useSeoMeta({
   title: 'CS Test Series - Best Online Test Series for CSEET, CS Executive & Professional Exams',
   description: 'Comprehensive CS Test Series with 500+ mock tests for CSEET, CS Executive & Professional. Expert-crafted questions, video solutions & analytics. Join 50,000+ students.',
   ogTitle: 'CS Test Series - Prepare Smart, Succeed Faster',
-  ogDescription: 'Best CS Test Series for CSEET, CS Executive & Professional exams. 95% pass rate, 500+ mock tests, expert guidance.',
+  ogDescription: 'Best CS Test Series for CSEET, CS Executive & Professional exams. 99% satisfaction rate, 500+ mock tests, expert guidance.',
   ogUrl: 'https://exam60.online/seo-content',
   twitterCard: 'summary_large_image',
   keywords: 'cs test series, cs executive test series, cs professional test series, cseet test series, icsi exams, best cs test series, cs mock test, cs online test, cs test series 2026, icsi cs test series'

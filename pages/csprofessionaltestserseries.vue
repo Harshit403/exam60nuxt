@@ -209,8 +209,8 @@
             <p>Depending on your plan, we provide 40-80 chapter tests and 5-15 full-length mock tests covering all 7 papers of CS Professional.</p>
           </div>
           <div class="faq-item">
-            <h3>What is the pass rate for CS Professional?</h3>
-            <p>Our students have an 85% pass rate in CS Professional. Many clear one or more papers in their first attempt with our comprehensive test series.</p>
+            <h3>What is the satisfaction rate for CS Professional?</h3>
+            <p>Our students have a 99% satisfaction rate in CS Professional. Many clear one or more papers in their first attempt with our comprehensive test series.</p>
           </div>
           <div class="faq-item">
             <h3>How to enroll in CS Professional test series?</h3>

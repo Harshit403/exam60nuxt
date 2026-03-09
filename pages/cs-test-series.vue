@@ -772,9 +772,9 @@
                         </p>
                     </div>
                     <div class="faq-item">
-                        <h3>What is the pass rate of your students?</h3>
+                        <h3>What is the satisfaction rate of your students?</h3>
                         <p>
-                            We have a 95% pass rate. Many students clear their
+                            We have a 99% satisfaction rate. Many students clear their
                             CS exams in the first attempt after practicing with
                             our test series regularly.
                         </p>

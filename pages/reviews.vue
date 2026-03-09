@@ -21,8 +21,8 @@
             <span class="stat-label">Student Reviews</span>
           </div>
           <div class="stat-card">
-            <span class="stat-value">95%</span>
-            <span class="stat-label">Pass Rate</span>
+            <span class="stat-value">99%</span>
+            <span class="stat-label">Satisfaction Rate</span>
           </div>
           <div class="stat-card">
             <span class="stat-value">20,000+</span>
@@ -183,8 +183,8 @@
             <p>Multiple reviews confirm that our test questions closely resemble the actual ICSI exam pattern. Since our questions are created by previous year rankers who know exactly what ICSI expects, students find the difficulty level and question type very similar.</p>
           </div>
           <div class="faq-item">
-            <h3>What is the pass rate of CS Test Series students?</h3>
-            <p>According to student reviews and our internal data, we have a 95% pass rate. Many reviews from successful students mention that regular practice with our mock tests was key to their success in CS Executive and Professional exams.</p>
+            <h3>What is the satisfaction rate of CS Test Series students?</h3>
+            <p>According to student reviews and our internal data, we have a 99% satisfaction rate. Many reviews from successful students mention that regular practice with our mock tests was key to their success in CS Executive and Professional exams.</p>
           </div>
         </div>
       </div>
@@ -292,7 +292,7 @@ const getCourseReviews = (courseId) => {
 useHead({
   title: 'CS Test Series Reviews | Student Success Stories & Ratings',
   meta: [
-    { name: 'description', content: 'Read genuine CS test series reviews from 500+ students. 4.9/5 rating, 95% pass rate. Reviews for CSEET, CS Executive & Professional test series. Enroll now!' },
+    { name: 'description', content: 'Read genuine CS test series reviews from 500+ students. 4.9/5 rating, 99% satisfaction rate. Reviews for CSEET, CS Executive & Professional test series. Enroll now!' },
     { name: 'keywords', content: 'cs test series reviews, cs test series review, cs executive test series reviews, cs professional test series reviews, cseet test series reviews, best cs test series reviews, icsi exam reviews, cs test series student feedback, cs test series rating, cs test series success rate' },
     { property: 'og:title', content: 'CS Test Series Reviews - Student Success Stories' },
     { property: 'og:description', content: '4.9/5 rating from 500+ student reviews. Join 20,000+ successful CS exam candidates.' },
@@ -308,7 +308,7 @@ useHead({
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "CS Test Series",
-        "description": "India's #1 CS Test Series for ICSI exams with 95% pass rate and 4.9/5 rating.",
+        "description": "India's #1 CS Test Series for ICSI exams with 99% satisfaction rate and 4.9/5 rating.",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",

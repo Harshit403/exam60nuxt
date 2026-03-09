@@ -240,7 +240,7 @@
         <div class="faq-grid">
           <div class="faq-item">
             <h3>Why is your CS test series considered the best?</h3>
-            <p>Our CS test series is considered the best because: 1) Questions are designed by All India Rankers, 2) Fastest 24-48 hour evaluation, 3) Detailed model answers, 4) Weekly mentorship from rankers, 5) 95% pass rate, and 6) Comprehensive coverage of ICSI syllabus.</p>
+            <p>Our CS test series is considered the best because: 1) Questions are designed by All India Rankers, 2) Fastest 24-48 hour evaluation, 3) Detailed model answers, 4) Weekly mentorship from rankers, 5) 99% satisfaction rate, and 6) Comprehensive coverage of ICSI syllabus.</p>
           </div>
           <div class="faq-item">
             <h3>How is your CS test series better than others?</h3>
@@ -286,10 +286,10 @@
 useHead({
   title: 'Best CS Test Series | India\'s #1 CS Mock Tests for ICSI Exams',
   meta: [
-    { name: 'description', content: 'Best CS Test Series in India. 500+ mock tests designed by AIRs. 95% pass rate, 24-48h evaluation. Join 20,000+ students. Enroll now for CSEET, CS Executive & Professional!' },
+    { name: 'description', content: 'Best CS Test Series in India. 500+ mock tests designed by AIRs. 99% satisfaction rate, 24-48h evaluation. Join 20,000+ students. Enroll now for CSEET, CS Executive & Professional!' },
     { name: 'keywords', content: 'best cs test series, best cs test series online, best cs test series in india, best cs executive test series, best cs professional test series, best cseet test series, top cs test series, best icsi test series' },
     { property: 'og:title', content: 'Best CS Test Series | India\'s #1 CS Mock Tests' },
-    { property: 'og:description', content: 'Join the best CS test series. Designed by AIRs with 95% pass rate. Enroll now!' },
+    { property: 'og:description', content: 'Join the best CS test series. Designed by AIRs with 99% satisfaction rate. Enroll now!' },
     { property: 'og:type', content: 'website' },
   ],
   link: [
@@ -302,7 +302,7 @@ useHead({
         "@context": "https://schema.org",
         "@type": "Product",
         "name": "Best CS Test Series",
-        "description": "India's #1 CS Test Series with 95% pass rate and 500+ mock tests.",
+        "description": "India's #1 CS Test Series with 99% satisfaction rate and 500+ mock tests.",
         "brand": { "@type": "Brand", "name": "CS Test Series" },
         "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "500" }
       })

@@ -44,8 +44,8 @@
             </div>
             <div class="stat-divider"></div>
             <div class="stat-item">
-              <span class="stat-value">95%</span>
-              <span class="stat-label">Pass Rate</span>
+              <span class="stat-value">99%</span>
+              <span class="stat-label">Satisfaction Rate</span>
             </div>
           </div>
         </div>
@@ -237,7 +237,7 @@
               <li><strong>Comprehensive Coverage:</strong> We cover all four papers with chapterwise, unitwise, and full syllabus tests.</li>
               <li><strong>Fastest Evaluation:</strong> Get your answer sheets evaluated within 24-48 working hours.</li>
               <li><strong>Video Solutions:</strong> Detailed video explanations for better understanding.</li>
-              <li><strong>Proven Results:</strong> 95% pass rate with thousands of successful students.</li>
+              <li><strong>Proven Results:</strong> 99% satisfaction rate with thousands of successful students.</li>
             </ul>
             <p>Call us at +91 8929592998 for more information about our CSEET Test Series.</p>
           </div>
@@ -255,7 +255,7 @@
           <div class="seo-card">
             <h3>Our Students' Success Stories</h3>
             <p>At CS Test Series, we take pride in our students' achievements. Thousands of students have cleared CSEET with our test series.</p>
-            <p>Our 95% pass rate speaks for itself. Students who consistently practice with our CSEET Test Series perform exceptionally well in the actual exam. The rigorous practice through our mock tests helps build confidence and exam temperament.</p>
+            <p>Our 99% satisfaction rate speaks for itself. Students who consistently practice with our CSEET Test Series perform exceptionally well in the actual exam. The rigorous practice through our mock tests helps build confidence and exam temperament.</p>
             <p>Join thousands of successful students who have achieved their dream of becoming Company Secretaries. Start your CSEET preparation with CS Test Series today!</p>
           </div>
         </div>
@@ -368,8 +368,8 @@ const faqs = ref([
     answer: "Yes, all our test papers are regularly updated as per the latest ICSI syllabus and exam pattern."
   },
   {
-    question: "What is the pass rate?",
-    answer: "Our students have a 95% pass rate in CSEET exam. Thousands of students have cleared CSEET with our test series."
+    question: "What is the satisfaction rate?",
+    answer: "Our students have a 99% satisfaction rate in CSEET exam. Thousands of students have cleared CSEET with our test series."
   },
   {
     question: "Can I access tests on mobile?",

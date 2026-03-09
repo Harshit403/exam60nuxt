@@ -181,8 +181,8 @@
             <p>Depending on the plan, we provide 30-50 chapter-wise tests and 3-10 full-length mock tests for comprehensive CSEET preparation.</p>
           </div>
           <div class="faq-item">
-            <h3>What is the pass rate for CSEET?</h3>
-            <p>Our students have a 95% pass rate in CSEET. Many clear the exam in their first attempt with regular practice from our test series.</p>
+            <h3>What is the satisfaction rate for CSEET?</h3>
+            <p>Our students have a 99% satisfaction rate in CSEET. Many clear the exam in their first attempt with regular practice from our test series.</p>
           </div>
           <div class="faq-item">
             <h3>How to enroll in CSEET test series?</h3>
