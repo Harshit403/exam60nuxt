@@ -26,7 +26,7 @@
           </div>
           <div class="stat-card">
             <span class="stat-value">20,000+</span>
-            <span class="stat-label">Students Enrolled</span>
+            <span class="stat-label">Students Community</span>
           </div>
         </div>
       </div>
