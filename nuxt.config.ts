@@ -6,7 +6,7 @@ export default defineNuxtConfig({
 
   site: {
     url: 'https://exam60.online',
-    name: 'CS Test Series - Best ICSI Exam Preparation',
+    name: 'CS TEST SERIES',
     description: "India's No.1 CS Test Series for ICSI exams. Best CS Executive Test Series & CS Professional Test Series designed by AIRs.",
     defaultLocale: 'en',
   },
@@ -17,6 +17,10 @@ export default defineNuxtConfig({
 
   robots: {
     sitemap: 'https://exam60.online/sitemap.xml',
+  },
+
+  linkChecker: {
+    enabled: true,
   },
 
   css: ['~/assets/css/main.css'],

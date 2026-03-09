@@ -3,7 +3,7 @@ Allow: /
 Disallow: /admin/
 Disallow: /api/
 
-Sitemap: https://missioncstestseries.com/sitemap.xml
+Sitemap: https://exam60.online/sitemap.xml
 
 User-Agent: Googlebot
 Allow: /
