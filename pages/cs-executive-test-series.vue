@@ -474,6 +474,9 @@ useSeoMeta({
 })
 
 useHead({
+  link: [
+    { rel: 'canonical', href: 'https://exam60.online/cs-executive-test-series' }
+  ],
   script: [
     {
       type: 'application/ld+json',

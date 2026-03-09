@@ -333,7 +333,7 @@ useHead({
     { property: 'og:type', content: 'website' },
   ],
   link: [
-    { rel: 'canonical', href: 'https://cstestseries.in/cs-test-series' }
+    { rel: 'canonical', href: 'https://exam60.online/cs-test-series' }
   ]
 })
 </script>

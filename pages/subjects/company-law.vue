@@ -61,6 +61,9 @@ useSeoMeta({
 });
 
 useHead({
+  link: [
+    { rel: 'canonical', href: 'https://exam60.online/subjects/company-law' }
+  ],
   script: [
     {
       type: 'application/ld+json',

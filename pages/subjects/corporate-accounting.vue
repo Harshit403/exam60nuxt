@@ -61,6 +61,9 @@ useSeoMeta({
 });
 
 useHead({
+  link: [
+    { rel: 'canonical', href: 'https://exam60.online/subjects/corporate-accounting' }
+  ],
   script: [
     {
       type: 'application/ld+json',

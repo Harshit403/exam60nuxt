@@ -293,7 +293,7 @@ useHead({
     { property: 'og:type', content: 'website' },
   ],
   link: [
-    { rel: 'canonical', href: 'https://cstestseries.in/best-cs-test-series' }
+    { rel: 'canonical', href: 'https://exam60.online/best-cs-test-series' }
   ],
   script: [
     {

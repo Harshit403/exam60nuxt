@@ -237,7 +237,7 @@ useHead({
     { property: 'og:description', content: 'CS Test Series - 500+ mock tests for CSEET, CS Executive & Professional.' },
   ],
   link: [
-    { rel: 'canonical', href: 'https://cstestseries.in/cstestseries' }
+    { rel: 'canonical', href: 'https://exam60.online/cstestseries' }
   ]
 })
 </script>

@@ -206,7 +206,7 @@ useHead({
     { property: 'og:type', content: 'website' },
   ],
   link: [
-    { rel: 'canonical', href: 'https://cstestseries.in/downloads' }
+    { rel: 'canonical', href: 'https://exam60.online/downloads' }
   ],
   script: [
     {

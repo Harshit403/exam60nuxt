@@ -39,17 +39,16 @@ export default defineNuxtConfig({
         { property: 'og:type', content: 'website' },
         { property: 'og:url', content: 'https://exam60.online' },
         { property: 'og:site_name', content: 'CS Test Series' },
-        { property: 'og:image', content: 'https://missioncstestseries.com/logo.png' },
+        { property: 'og:image', content: 'https://exam60.online/logo.png' },
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:title', content: 'Best CS Test Series - CS Executive & Professional | Mission CS' },
         { name: 'twitter:description', content: 'India\'s #1 CS Test Series for ICSI exams. Designed by AIRs with fastest evaluation.' },
-        { name: 'twitter:image', content: 'https://missioncstestseries.com/logo.png' },
+        { name: 'twitter:image', content: 'https://exam60.online/logo.png' },
         { name: 'theme-color', content: '#1e3a8a' }
       ],
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: 'https://missioncstestseries.com/favicon.ico' },
-        { rel: 'canonical', href: 'https://missioncstestseries.com' },
-        { rel: 'preconnect', href: 'https://missioncstestseries.com' }
+        { rel: 'icon', type: 'image/x-icon', href: 'https://exam60.online/favicon.ico' },
+        { rel: 'preconnect', href: 'https://exam60.online' }
       ]
     }
   },

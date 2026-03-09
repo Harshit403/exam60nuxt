@@ -246,7 +246,7 @@ useHead({
     { property: 'og:description', content: 'CS Professional Test Series - 150+ advanced mock tests for all 7 papers.' },
   ],
   link: [
-    { rel: 'canonical', href: 'https://cstestseries.in/csprofessionaltestserseries' }
+    { rel: 'canonical', href: 'https://exam60.online/csprofessionaltestserseries' }
   ]
 })
 </script>

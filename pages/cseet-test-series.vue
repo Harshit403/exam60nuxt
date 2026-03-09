@@ -392,6 +392,9 @@ useSeoMeta({
 })
 
 useHead({
+  link: [
+    { rel: 'canonical', href: 'https://exam60.online/cseet-test-series' }
+  ],
   script: [
     {
       type: 'application/ld+json',

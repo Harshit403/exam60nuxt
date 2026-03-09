@@ -218,7 +218,7 @@ useHead({
     { property: 'og:description', content: 'CSEET Test Series - 100+ mock tests for CSEET exam preparation.' },
   ],
   link: [
-    { rel: 'canonical', href: 'https://cstestseries.in/cseettestaeries' }
+    { rel: 'canonical', href: 'https://exam60.online/cseettestaeries' }
   ]
 })
 </script>

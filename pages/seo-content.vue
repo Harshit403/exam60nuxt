@@ -141,6 +141,9 @@ useSeoMeta({
 })
 
 useHead({
+  link: [
+    { rel: 'canonical', href: 'https://exam60.online/seo-content' }
+  ],
   script: [
     {
       type: 'application/ld+json',

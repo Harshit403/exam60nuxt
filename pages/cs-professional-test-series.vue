@@ -452,6 +452,9 @@ useSeoMeta({
 })
 
 useHead({
+  link: [
+    { rel: 'canonical', href: 'https://exam60.online/cs-professional-test-series' }
+  ],
   script: [
     {
       type: 'application/ld+json',

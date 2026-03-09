@@ -244,7 +244,7 @@ useHead({
     { property: 'og:type', content: 'website' },
   ],
   link: [
-    { rel: 'canonical', href: 'https://cstestseries.in/about' }
+    { rel: 'canonical', href: 'https://exam60.online/about' }
   ]
 })
 </script>

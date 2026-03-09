@@ -265,7 +265,7 @@ useHead({
     { property: 'og:description', content: 'CS Executive Test Series - 200+ mock tests for Module 1 & 2.' },
   ],
   link: [
-    { rel: 'canonical', href: 'https://cstestseries.in/csexecutivetestseries' }
+    { rel: 'canonical', href: 'https://exam60.online/csexecutivetestseries' }
   ]
 })
 </script>
