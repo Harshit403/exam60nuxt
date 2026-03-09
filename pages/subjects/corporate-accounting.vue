@@ -55,7 +55,7 @@ useSeoMeta({
   description: 'Best Corporate Accounting test series for CS Executive. Chapterwise, unitwise & full syllabus tests. Covers AS, Financial Statements, Ratio Analysis. Designed by AIRs.',
   ogTitle: 'Corporate Accounting Test Series - CS Executive',
   ogDescription: 'Best Corporate Accounting test series for CS Executive. Prepare with India\'s #1 CS test series designed by AIRs.',
-  ogUrl: 'https://cstestseries.in/subjects/corporate-accounting',
+  ogUrl: 'https://exam60.online/subjects/corporate-accounting',
   twitterCard: 'summary_large_image',
   keywords: 'corporate accounting test series, cs executive corporate accounting test series, accounting standards test series, financial management test series cs, icsi corporate accounting test series'
 });
@@ -87,7 +87,7 @@ useHead({
           "priceCurrency": "INR",
           "availability": "https://schema.org/InStock",
           "validFrom": "2024-01-01",
-          "url": "https://cstestseries.in/cs-executive-test-series"
+          "url": "https://exam60.online/cs-executive-test-series"
         },
         "sku": "CS-EXEC-CORPACC"
       })

@@ -55,7 +55,7 @@ useSeoMeta({
   description: 'Best Tax Laws test series for CS Executive. Chapterwise, unitwise & full syllabus tests. Covers Income Tax & GST. Designed by AIRs with fastest evaluation.',
   ogTitle: 'Tax Laws Test Series - CS Executive',
   ogDescription: 'Best Tax Laws test series for CS Executive. Prepare with India\'s #1 CS test series designed by AIRs.',
-  ogUrl: 'https://cstestseries.in/subjects/tax-laws',
+  ogUrl: 'https://exam60.online/subjects/tax-laws',
   twitterCard: 'summary_large_image',
   keywords: 'tax laws test series, cs executive tax laws test series, income tax test series, gst test series cs, icsi tax laws test series, best tax laws test series'
 });
@@ -87,7 +87,7 @@ useHead({
           "priceCurrency": "INR",
           "availability": "https://schema.org/InStock",
           "validFrom": "2024-01-01",
-          "url": "https://cstestseries.in/cs-executive-test-series"
+          "url": "https://exam60.online/cs-executive-test-series"
         },
         "sku": "CS-EXEC-TAXLAWS"
       })

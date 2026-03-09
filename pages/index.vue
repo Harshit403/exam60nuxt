@@ -743,7 +743,7 @@ useHead({
                 "name": "CS Test Series",
                 "description": "India's #1 CS Test Series for ICSI exams. Best CS Executive Test Series & CS Professional Test Series designed by AIRs. Call +91 8929592998",
                 "url": "https://exam60.online",
-                "logo": "https://missioncstestseries.com/logo.png",
+                "logo": "https://exam60.online/logo.png",
                 "sameAs": [
                     "https://www.instagram.com/missiom.cs",
                     "https://www.facebook.com/mission.cs"

@@ -520,7 +520,7 @@ useHead({
         "provider": {
           "@type": "Organization",
           "name": "CS Test Series",
-          "url": "https://cstestseries.in"
+          "url": "https://exam60.online"
         },
         "offers": {
           "@type": "Offer",

@@ -55,7 +55,7 @@ useSeoMeta({
   description: 'Best Company Law test series for CS Executive. Chapterwise, unitwise & full syllabus tests. Designed by AIRs with fastest evaluation. Covers Companies Act 2013.',
   ogTitle: 'Company Law Test Series - CS Executive',
   ogDescription: 'Best Company Law test series for CS Executive. Prepare with India\'s #1 CS test series designed by AIRs.',
-  ogUrl: 'https://cstestseries.in/subjects/company-law',
+  ogUrl: 'https://exam60.online/subjects/company-law',
   twitterCard: 'summary_large_image',
   keywords: 'company law test series, cs executive company law test series, company law cs executive, company law test series chapterwise, icsi company law test series, best company law test series'
 });
@@ -87,7 +87,7 @@ useHead({
           "priceCurrency": "INR",
           "availability": "https://schema.org/InStock",
           "validFrom": "2024-01-01",
-          "url": "https://cstestseries.in/cs-executive-test-series"
+          "url": "https://exam60.online/cs-executive-test-series"
         },
         "sku": "CS-EXEC-COMPANYLAW"
       })

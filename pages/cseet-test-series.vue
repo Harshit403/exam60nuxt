@@ -386,7 +386,7 @@ useSeoMeta({
   description: "India's No.1 CSEET Test Series for ICSI exam. Chapterwise at Rs 899, Unitwise at Rs 499, Full Syllabus at Rs 149. All 4 papers covered. Fastest evaluation 24-48 hours.",
   ogTitle: 'Best CSEET Test Series - Clear in First Attempt',
   ogDescription: "India's No.1 CSEET Test Series. Chapterwise Rs 899, Unitwise Rs 499, Full Syllabus Rs 149. All 4 papers covered.",
-  ogUrl: 'https://cstestseries.in/cseet-test-series',
+  ogUrl: 'https://exam60.online/cseet-test-series',
   twitterCard: 'summary_large_image',
   keywords: 'cseet test series, cseet test series 2026, cseet mock test, cseet online test, cseet chapterwise test series, icsi cseet test series, best cseet test series, cseet test series price'
 })
@@ -423,7 +423,7 @@ useHead({
         "@type": "Course",
         "name": "CSEET Test Series",
         "description": "CSEET Test Series - Chapterwise at Rs 899, Unitwise at Rs 499, Full Syllabus at Rs 149.",
-        "provider": { "@type": "Organization", "name": "CS Test Series", "url": "https://cstestseries.in" },
+        "provider": { "@type": "Organization", "name": "CS Test Series", "url": "https://exam60.online" },
         "offers": { "@type": "Offer", "price": "899", "priceCurrency": "INR" }
       })
     },

@@ -446,7 +446,7 @@ useSeoMeta({
   description: "India's #1 CS Professional Test Series. Chapterwise from Rs 849, Unitwise from Rs 499, Full Syllabus from Rs 149. All 7 papers across 2 modules. Designed by AIRs with fastest 24-48 hour evaluation.",
   ogTitle: 'Best CS Professional Test Series - Clear in First Attempt',
   ogDescription: "India's #1 CS Professional Test Series. Chapterwise Rs 849, Unitwise Rs 499, Full Syllabus Rs 149. All 7 papers covered.",
-  ogUrl: 'https://cstestseries.in/cs-professional-test-series',
+  ogUrl: 'https://exam60.online/cs-professional-test-series',
   twitterCard: 'summary_large_image',
   keywords: 'cs professional test series, cs professional test series 2026, cs professional mock test, cs professional online test, cs professional chapterwise test series, icsi cs professional test series, best cs professional test series, cs professional test series price'
 })
@@ -471,7 +471,7 @@ useHead({
           "priceCurrency": "INR",
           "availability": "https://schema.org/InStock",
           "validFrom": "2024-01-01",
-          "url": "https://cstestseries.in/cs-professional-test-series"
+          "url": "https://exam60.online/cs-professional-test-series"
         },
         "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "3000", "bestRating": "5" }
       })
@@ -483,7 +483,7 @@ useHead({
         "@type": "Course",
         "name": "CS Professional Test Series",
         "description": "CS Professional Test Series - Chapterwise at Rs 849, Unitwise at Rs 499, Full Syllabus at Rs 149. Covers all 7 papers across 2 modules.",
-        "provider": { "@type": "Organization", "name": "CS Test Series", "url": "https://cstestseries.in" },
+        "provider": { "@type": "Organization", "name": "CS Test Series", "url": "https://exam60.online" },
         "offers": { "@type": "Offer", "price": "849", "priceCurrency": "INR" }
       })
     },
