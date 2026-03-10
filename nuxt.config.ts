@@ -4,8 +4,14 @@ export default defineNuxtConfig({
 
   modules: ['@pinia/nuxt', '@nuxtjs/seo'],
 
+  runtimeConfig: {
+    public: {
+      site: process.env.NUXT_SITE_URL || 'https://exam60.online'
+    }
+  },
+
   site: {
-    url: 'https://exam60.online',
+    url: process.env.NUXT_SITE_URL || 'https://exam60.online',
     name: 'CS TEST SERIES',
     description: "India's No.1 CS Test Series for ICSI exams. Best CS Executive Test Series & CS Professional Test Series designed by AIRs.",
     defaultLocale: 'en',
@@ -16,7 +22,7 @@ export default defineNuxtConfig({
   },
 
   robots: {
-    sitemap: 'https://exam60.online/sitemap.xml',
+    sitemap: '/sitemap.xml',
   },
 
   linkChecker: {
@@ -41,18 +47,14 @@ export default defineNuxtConfig({
         { property: 'og:title', content: 'CS TEST SERIES' },
         { property: 'og:description', content: 'India\'s #1 CS Test Series for ICSI exams. CS Executive & Professional test papers designed by AIRs.' },
         { property: 'og:type', content: 'website' },
-        { property: 'og:url', content: 'https://exam60.online' },
         { property: 'og:site_name', content: 'CS TEST SERIES' },
-        { property: 'og:image', content: 'https://exam60.online/logo.png' },
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:title', content: 'CS TEST SERIES' },
         { name: 'twitter:description', content: 'India\'s #1 CS Test Series for ICSI exams. Designed by AIRs with fastest evaluation.' },
-        { name: 'twitter:image', content: 'https://exam60.online/logo.png' },
         { name: 'theme-color', content: '#1e3a8a' }
       ],
       link: [
-        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-        { rel: 'preconnect', href: 'https://exam60.online' }
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
       ]
     }
   },

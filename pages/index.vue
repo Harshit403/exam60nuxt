@@ -715,12 +715,14 @@ const toggleFaq = (index) => {
     activeFaq.value = activeFaq.value === index ? -1 : index;
 };
 
+const domain = useDomain()
+
 useSeoMeta({
     title: "CS TEST SERIES",
     description: "India's #1 CS test series for ICSI exams. Best CS test series, CS executive test series & CS professional test series designed by AIRs. Fastest evaluation in 24-48 hours. Call +91 8929592998",
     ogTitle: "CS TEST SERIES",
     ogDescription: "Prepare with India's best CS test series. CS executive test series & CS professional test series designed by All India Rankers. Join 20,000+ students community.",
-    ogUrl: "https://exam60.online",
+    ogUrl: domain,
     ogSiteName: "CS TEST SERIES",
     twitterCard: "summary_large_image",
     twitterTitle: "CS TEST SERIES",
@@ -729,7 +731,7 @@ useSeoMeta({
 
 useHead({
     link: [
-        { rel: 'canonical', href: 'https://exam60.online/' }
+        { rel: 'canonical', href: domain + '/' }
     ],
     meta: [
         { name: 'google-site-verification', content: '' },
@@ -743,8 +745,8 @@ useHead({
                 "@type": "EducationalWebSite",
                 "name": "CS Test Series",
                 "description": "India's #1 CS Test Series for ICSI exams. Best CS Executive Test Series & CS Professional Test Series designed by AIRs. Call +91 8929592998",
-                "url": "https://exam60.online",
-                "logo": "https://exam60.online/logo.png",
+                "url": domain,
+                "logo": domain + "/logo.png",
                 "sameAs": [
                     "https://www.instagram.com/missiom.cs",
                     "https://www.facebook.com/mission.cs"
