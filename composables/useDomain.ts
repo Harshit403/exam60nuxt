@@ -1,4 +1,10 @@
 export const useDomain = () => {
-  const config = useRuntimeConfig()
-  return config.public.site as string || 'https://exam60.online'
+  if (import.meta.server) {
+    const siteUrl = useRequestHeader('x-site-url')
+    return siteUrl || 'https://exam60.online'
+  }
+  if (import.meta.client) {
+    return window.location.origin
+  }
+  return 'https://exam60.online'
 }

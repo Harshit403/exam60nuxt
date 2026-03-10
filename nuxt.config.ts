@@ -6,12 +6,12 @@ export default defineNuxtConfig({
 
   runtimeConfig: {
     public: {
-      site: process.env.NUXT_SITE_URL || 'https://exam60.online'
+      site: ''
     }
   },
 
   site: {
-    url: process.env.NUXT_SITE_URL || 'https://exam60.online',
+    url: '',
     name: 'CS TEST SERIES',
     description: "India's No.1 CS Test Series for ICSI exams. Best CS Executive Test Series & CS Professional Test Series designed by AIRs.",
     defaultLocale: 'en',
@@ -60,35 +60,15 @@ export default defineNuxtConfig({
   },
 
   routeRules: {
-    '/': { prerender: true },
-    '/cseet-test-series': { prerender: true },
-    '/cs-executive-test-series': { prerender: true },
-    '/cs-professional-test-series': { prerender: true },
-    '/reviews': { prerender: true },
-    '/seo-content': { prerender: true },
-    '/about': { prerender: true },
-    '/cs-test-series': { prerender: true },
-    '/best-cs-test-series': { prerender: true },
-    '/cstestseries': { prerender: true },
-    '/cseettestaeries': { prerender: true },
-    '/csexecutivetestseries': { prerender: true },
-    '/csprofessionaltestserseries': { prerender: true },
-    '/downloads': { prerender: true },
-    '/subjects/company-law': { prerender: true },
-    '/subjects/tax-laws': { prerender: true },
-    '/subjects/corporate-accounting': { prerender: true }
+    '/**': { isr: 3600 }
   },
 
   nitro: {
-    prerender: {
-      crawlLinks: true,
-      routes: ['/', '/cseet-test-series', '/cs-executive-test-series', '/cs-professional-test-series', '/reviews', '/seo-content', '/about', '/cs-test-series', '/best-cs-test-series', '/cstestseries', '/cseettestaeries', '/csexecutivetestseries', '/csprofessionaltestserseries', '/downloads', '/subjects/company-law', '/subjects/tax-laws', '/subjects/corporate-accounting', '/sitemap.xml', '/robots.txt']
-    },
     compressPublicAssets: true
   },
 
   experimental: {
-    payloadExtraction: true
+    payloadExtraction: false
   },
 
   vite: {
