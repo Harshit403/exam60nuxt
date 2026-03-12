@@ -64,6 +64,7 @@
             <li><NuxtLink to="/">Home</NuxtLink></li>
             <li><NuxtLink to="/about">About Us</NuxtLink></li>
             <li><NuxtLink to="/reviews">Student Reviews</NuxtLink></li>
+            <li><NuxtLink to="/schedule">Test Schedule</NuxtLink></li>
             <li><NuxtLink to="/#faq">FAQs</NuxtLink></li>
             <li><NuxtLink to="/#contact">Contact Us</NuxtLink></li>
           </ul>
