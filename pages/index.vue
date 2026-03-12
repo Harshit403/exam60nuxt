@@ -1029,7 +1029,7 @@ useHead({
 
 .feature-card {
     background: var(--white);
-    padding: 1.75rem;
+    padding: 1.25rem;
     border-radius: var(--radius-lg);
     text-align: center;
     border: 1px solid var(--border);
@@ -1043,9 +1043,9 @@ useHead({
 }
 
 .feature-icon {
-    width: 52px;
-    height: 52px;
-    margin: 0 auto 1rem;
+    width: 44px;
+    height: 44px;
+    margin: 0 auto 0.75rem;
     border-radius: var(--radius);
     display: flex;
     align-items: center;
@@ -1083,16 +1083,16 @@ useHead({
 }
 
 .feature-card h3 {
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 600;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.4rem;
     color: var(--gray-900);
 }
 
 .feature-card p {
     color: var(--gray-500);
-    line-height: 1.6;
-    font-size: 0.9rem;
+    line-height: 1.5;
+    font-size: 0.85rem;
 }
 
 /* Courses Section */
