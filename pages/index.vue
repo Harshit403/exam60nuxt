@@ -1642,14 +1642,17 @@ useHead({
 }
 
 /* Responsive */
-@media (max-width: 1024px) {
+@media (max-width: 900px) {
     .hero-title {
         font-size: 2.75rem;
     }
 
     .courses-grid,
-    .features-grid,
     .testimonials-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .features-grid {
         grid-template-columns: repeat(2, 1fr);
     }
 
