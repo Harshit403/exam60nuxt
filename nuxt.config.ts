@@ -11,9 +11,9 @@ export default defineNuxtConfig({
   },
 
   site: {
-    url: '',
-    name: 'CS TEST SERIES',
-    description: "India's No.1 CS Test Series for ICSI exams. Best CS Executive Test Series & CS Professional Test Series designed by AIRs.",
+    url: 'https://exam60.online',
+    name: 'CS Test Series for CS Executive and CS Professional',
+    description: 'India\'s leading CS test series for ICSI exams. CS Executive & Professional test series by AIRs. 24-48h evaluation. Join 20,000+ students.',
     defaultLocale: 'en',
   },
 
@@ -33,28 +33,33 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'CS TEST SERIES',
+      title: 'CS Test Series for CS Executive & CS Professional - ICSI Exams',
       htmlAttrs: {
         lang: 'en'
       },
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'India\'s #1 CS Test Series for ICSI exams. Best CS Executive Test Series & CS Professional Test Series designed by AIRs. Fastest evaluation in 24-48 hours. Join 50,000+ students.' },
+        { name: 'description', content: 'India\'s leading CS test series for ICSI exams. Best CS Executive & Professional test series by AIRs. Fastest evaluation in 24-48 hours. Join 20,000+ students.' },
         { name: 'keywords', content: 'CS test series, cs executive test series, cs professional test series, icsi exams, cseet test series, best cs test series' },
-        { name: 'author', content: 'CS TEST SERIES' },
+        { name: 'author', content: 'CS Test Series' },
         { name: 'robots', content: 'index, follow' },
-        { property: 'og:title', content: 'CS TEST SERIES' },
-        { property: 'og:description', content: 'India\'s #1 CS Test Series for ICSI exams. CS Executive & Professional test papers designed by AIRs.' },
+        { property: 'og:title', content: 'CS Test Series for CS Executive & CS Professional - ICSI Exams' },
+        { property: 'og:description', content: 'India\'s leading CS test series for ICSI exams. Best CS Executive & Professional test series by AIRs. Fastest evaluation in 24-48 hours.' },
         { property: 'og:type', content: 'website' },
-        { property: 'og:site_name', content: 'CS TEST SERIES' },
+        { property: 'og:site_name', content: 'CS Test Series' },
+        { property: 'og:url', content: 'https://exam60.online' },
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:title', content: 'CS TEST SERIES' },
-        { name: 'twitter:description', content: 'India\'s #1 CS Test Series for ICSI exams. Designed by AIRs with fastest evaluation.' },
+        { name: 'twitter:title', content: 'CS Test Series for CS Executive & CS Professional - ICSI Exams' },
+        { name: 'twitter:description', content: 'India\'s leading CS test series for ICSI exams. Best CS Executive & Professional test series by AIRs. Fastest evaluation in 24-48 hours.' },
         { name: 'theme-color', content: '#1e3a8a' }
       ],
       link: [
+        { rel: 'canonical', href: 'https://exam60.online' },
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      ],
+      script: [
+        { src: 'https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX', async: true, defer: true }
       ]
     }
   },

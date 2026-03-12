@@ -226,6 +226,15 @@ const courses = [
 const reviews = ref([
   {
     id: 1,
+    name: 'Neha Magpal',
+    course: 'CS Executive',
+    rating: 5,
+    comment: "I wanted to say a big thank you for your efforts and the notes because of which i was able to pass executive with AIR 7 🙏🙏\n\nThank you so much ☺️\n\nYou are doing a great job.. May god bless uh",
+    date: 'Dec 2024',
+    qualified: 'AIR 7 - CS Executive'
+  },
+  {
+    id: 2,
     name: 'Priya Sharma',
     course: 'CS Executive',
     rating: 5,
