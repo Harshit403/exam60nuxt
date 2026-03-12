@@ -86,7 +86,7 @@
       </div>
 
       <div class="footer-bottom">
-        <p>&copy; {{ new Date().getFullYear() }} CS Test Series. All rights reserved.</p>
+        <p>&copy; {{ new Date().getFullYear() }} Mission CS Test Series. All rights reserved.</p>
         <div class="footer-legal">
           <a href="#">Privacy Policy</a>
           <a href="#">Terms of Service</a>
