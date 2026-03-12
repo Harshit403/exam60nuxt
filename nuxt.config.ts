@@ -65,7 +65,15 @@ export default defineNuxtConfig({
   },
 
   routeRules: {
-    '/**': { isr: 3600 }
+    '/': { prerender: true },
+    '/reviews': { prerender: true },
+    '/schedule': { prerender: true },
+    '/about': { prerender: true },
+    '/downloads': { prerender: true },
+    '/cs-executive-test-series': { prerender: true },
+    '/cs-professional-test-series': { prerender: true },
+    '/cseet-test-series': { prerender: true },
+    '/best-cs-test-series': { prerender: true }
   },
 
   nitro: {
