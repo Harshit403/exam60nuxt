@@ -11,7 +11,7 @@ export default defineNuxtConfig({
   },
 
   site: {
-    url: 'https://exam60.online',
+    url: 'https://www.exam60.online',
     name: 'CS Test Series for CS Executive and CS Professional',
     description: 'India\'s leading CS test series for ICSI exams. CS Executive & Professional test series by AIRs. 24-48h evaluation. Join 20,000+ students.',
     defaultLocale: 'en',
@@ -48,14 +48,14 @@ export default defineNuxtConfig({
         { property: 'og:description', content: 'India\'s leading CS test series for ICSI exams. Best CS Executive & Professional test series by AIRs. Fastest evaluation in 24-48 hours.' },
         { property: 'og:type', content: 'website' },
         { property: 'og:site_name', content: 'CS Test Series' },
-        { property: 'og:url', content: 'https://exam60.online' },
+        { property: 'og:url', content: 'https://www.exam60.online' },
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:title', content: 'CS Test Series for CS Executive & CS Professional - ICSI Exams' },
         { name: 'twitter:description', content: 'India\'s leading CS test series for ICSI exams. Best CS Executive & Professional test series by AIRs. Fastest evaluation in 24-48 hours.' },
         { name: 'theme-color', content: '#1e3a8a' }
       ],
       link: [
-        { rel: 'canonical', href: 'https://exam60.online' },
+        { rel: 'canonical', href: 'https://www.exam60.online' },
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
       ],
       script: [
