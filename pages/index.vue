@@ -742,6 +742,16 @@ useHead({
             type: 'application/ld+json',
             children: JSON.stringify({
                 "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": "CS Test Series",
+                "alternateName": "Exam60 CS Test Series",
+                "url": domain + "/"
+            })
+        },
+        {
+            type: 'application/ld+json',
+            children: JSON.stringify({
+                "@context": "https://schema.org",
                 "@type": "EducationalWebSite",
                 "name": "CS Test Series",
                 "description": "India's #1 CS Test Series for ICSI exams. Best CS Executive Test Series & CS Professional Test Series designed by AIRs. Call +91 8929592998",
