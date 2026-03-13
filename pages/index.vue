@@ -413,7 +413,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
                         </div>
                         <h4>Instant Feedback</h4>
-                        <p>Get evaluated within 24-48 hours. Quick feedback helps you identify mistakes and improve before the actual exam.</p>
+                        <p>Get evaluated within 24-48 working hours. Quick feedback helps you identify mistakes and improve before the actual exam.</p>
                     </div>
                     <div class="matter-item">
                         <div class="matter-icon">
